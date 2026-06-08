@@ -1,7 +1,9 @@
 https://github.com/thigashi-design/test.git
-mongodb+srv://thigashi:<db_password>@cluster0.9kdiuut.mongodb.net/?appName=Cluster0
+
 const uri = "mongodb+srv://thigashi:tayu0615@cluster0.9kdiuut.mongodb.net/?appName=Cluster0";
 
 thigashi
 tayu0615
+
+git remote add origin https://github.com/thigashi-design/express.git
 
